@@ -1,4 +1,4 @@
-package JAVA_알고리즘;
+package Doit_chap01;
 
 import java.util.Scanner;
 

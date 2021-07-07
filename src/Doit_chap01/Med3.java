@@ -1,4 +1,4 @@
-package JAVA_알고리즘;
+package Doit_chap01;
 
 public class Med3 {
 	// a, b, c의 중앙값을 구하여 반환
